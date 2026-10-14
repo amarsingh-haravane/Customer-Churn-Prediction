@@ -40,14 +40,6 @@ Bulk churn prediction using CSV upload with visual charts.
 
 ---
 
-
-## 🌐 Live Demo
-
-*Application:*  
-https://customer-churn-prediction-cypvymrrt3nzmchr3awezy.streamlit.app/
-
----
-
 ## 🧠 Model Details
 
 - Algorithm: **Random Forest Classifier**
